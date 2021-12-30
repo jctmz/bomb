@@ -59,6 +59,7 @@ penalidades sofridas por quem usar o bot, use por sua própria conta e risco.
 
 É importante marcar a opção para adicionar o
 python ao PATH:
+
 ![Check Add python to PATH](https://raw.githubusercontent.com/jctmz/bomb/main/images/readme/path.png)
 
 ### Realize o download do codigo no formato zip, e extraia o arquivo.
